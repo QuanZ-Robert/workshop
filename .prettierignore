@@ -1,0 +1,8 @@
+.gitignore
+.prettierignore
+.DS_Store
+.editorconfig
+.eslintignore
+dist
+node_modules
+package.json
